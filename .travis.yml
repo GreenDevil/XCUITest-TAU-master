@@ -2,7 +2,7 @@ language: swift
 osx_image: xcode11.2
 
 before_install:
-  - gem install fastlane --no-ri --no-rdoc --no-document
+  - gem install fastlane --no-document
 install: true
 script:
   - fastlane scan --scheme TAU --device "iPhone 11 Pro"
