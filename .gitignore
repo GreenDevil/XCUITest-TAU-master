@@ -1,6 +1,5 @@
 Podfile.lock
 Pods/
-TAUUITests/Base/
 test_output/
 TAU.xcodeproj/
 TAU.xcworkspace/
