@@ -1,0 +1,9 @@
+Podfile.lock
+Pods/
+TAUUITests/Base/
+test_output/
+TAU.xcodeproj/
+TAU.xcworkspace/
+.DS_Store
+*.xcuserstate
+.DS_Store
