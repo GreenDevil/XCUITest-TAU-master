@@ -16,7 +16,7 @@ class TAUEyesTest: TAUUITestBase {
         XCUIApplication().buttons["enrollButton"].tap()
 
         // Visual checkpoint #2.
-        eyes.checkWindow(withTag: "Please Enter City")
+        eyes.checkWindow(withTag: "Please Enter City 2")
     }
     
 }
