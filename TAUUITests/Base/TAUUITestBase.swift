@@ -13,7 +13,7 @@ class TAUUITestBase: XCTestCase {
         super.setUp()
         continueAfterFailure = false
         app.launch()
-        eyes.apiKey = "Nlovfgn8mV0kxX4sPaYaII9wpIUZawtNBmcFv596Vos110"
+        eyes.apiKey = ""
         
     }
 
